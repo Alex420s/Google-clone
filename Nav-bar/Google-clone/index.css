@@ -1,0 +1,152 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%; /* 1 rem = 10 px */
+
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 1.6rem ;
+}
+.header {
+    width: 100%;
+    height: 60px;
+}
+.header__nav {
+    display: flex;
+    justify-content: flex-end;
+}
+.nav {
+    list-style: none ;
+    display: flex;
+    padding: 0;
+}
+.nav__item {
+    padding-right: 15px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+}
+.nav__item a {
+    color: rgba(0,0,0,.87);
+    text-decoration: none;
+    
+}
+.Google_apps_logo {
+    height: 24px;
+    width: 24px;
+    color: #5f6368;
+    cursor: pointer;
+}
+.nav__item a img {
+    height: 32px;
+    width: 32px;
+    border-radius: 100%;
+}
+main {
+    text-align: center;
+    margin-top: 150px;
+}
+.main__logo {
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+.Google_img {
+    height: 92px;
+    width: 272px;
+}
+.micro {
+    width: 20px;
+    height: 20px;
+}
+.camera {
+    width: 22px;
+    height: 22px;
+    margin: 0 5px;
+}
+.input-container{
+    margin-bottom: 35px;
+    display: flex;
+    justify-content: center;
+    
+}
+.lupa {
+    width: 18px;
+    height: 18px;
+}
+.input-cont {
+    width: 525px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #dfe1e5;
+
+}
+input{
+    width: 430px;
+    height: 40px;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+}
+.main-bot{
+    display: flex; 
+    justify-content: center;
+    
+}
+.main-bot button {
+    height: 36px;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    font-size: 14px;
+    color: #5f6368;
+    border-radius: 5px;
+    padding: 0 15px;
+    margin-right: 15px;
+}
+.main-bot button:hover {
+    border: 1px solid #c6c6c6;
+    box-shadow: 0 1px #000001;
+    color: #222;
+    cursor: pointer;
+}
+footer {
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    align-items: center;
+    font-size: 13px;
+    background-color: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+}
+footer ul {
+    margin: 10px;
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+}
+footer ul .left{
+    justify-self: left;
+
+}
+/* footer ul .right { */
+    /* justify-items: end; 
+        No supe que más hacer, pero se que mi perfeccionismo no me dejara avanzar si no es perfeco, asi que 
+        prodigo al sig ejemplo.
+        */
+    
+
+/* } */
+footer ul li a {
+    margin: 10px;
+    color: #5f6368;
+    text-decoration: none;
+}
