@@ -10,3 +10,9 @@ En este proyecto afirmo que se usar:
 
 Este es uno de muchos ejercicios, pero el que más me costo :(
 lo siguiente es Tailwind y seguir con react, he pausado django pero afortunadamente he podido practicar a la par.
+
+Al parecer el Logo de Google ya no esta disponible donde lo tome prestado :/
+ 
+<div style="width:60px ; height:60px">
+![help!](/HTML_CSS/Google-clone/example1.png?raw=true "Google Logo")
+<div>
