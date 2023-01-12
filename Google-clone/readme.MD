@@ -13,6 +13,5 @@ lo siguiente es Tailwind y seguir con react, he pausado django pero afortunadame
 
 Al parecer el Logo de Google ya no esta disponible donde lo tome prestado :/
  
-<div style="width:60px ; height:60px">
-![help!](./assets/img/example1.png?raw=true "Google Logo")
-<div>
+![hire me!](https://github.com/Alex420s/HTML_CSS/blob/test/assets/images/example2.jpg "Google Logo")
+
