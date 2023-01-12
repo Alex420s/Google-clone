@@ -1,6 +1,6 @@
 Hola, este es el clon de Google.
 En este proyecto mejoro mis habilidades en HTML y CSS, me adentre a display:flex;
-Estoy listo para el proyecto "the martz", hay cosas pendientes pero sigo avanzando.
+Hay cosas pendientes pero sigo avanzando.
 Es algo no terminado, como todo mal inventor, pero hay cosas que aprender y siempre podre regresar y mejorarlo.
 
 En este proyecto afirmo que se usar:
