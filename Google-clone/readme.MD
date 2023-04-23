@@ -12,6 +12,7 @@ Este es uno de muchos ejercicios, pero el que más me costo :(
 lo siguiente es Tailwind y seguir con react, he pausado django pero afortunadamente he podido practicar a la par.
 
 Al parecer el Logo de Google ya no esta disponible donde lo tome prestado :/
+<<<<<<< HEAD
  <p align="center">
 <img width="80%" src="https://i.postimg.cc/CKDHxfxg/example2.jpg">
 </p>
@@ -20,3 +21,7 @@ He puesto otro logo.
  <p align="center">
 <img width="80%" src="https://i.postimg.cc/bvY10Fzm/Google-Clone-Mozilla-Firefox-22-04-2023-10-36-04-p-m.png">
 </p>
+=======
+ 
+![help!](https://github.com/Alex420s/HTML_CSS/blob/master/assets/images/example2.jpg "Google Logo")
+>>>>>>> d33fcefbac957a367c756416eaa34841d6bfe130
