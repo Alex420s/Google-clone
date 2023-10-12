@@ -134,13 +134,15 @@ footer ul {
     padding-left: 0;
 }
 footer ul .left{
-    justify-self: left;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
 
 }
 /* footer ul .right { */
     /* justify-items: end; 
         No supe que más hacer, pero se que mi perfeccionismo no me dejara avanzar si no es perfeco, asi que 
-        prodigo al sig ejemplo.
+        prosigo al sig ejemplo.
         */
     
 
@@ -149,4 +151,40 @@ footer ul li a {
     margin: 10px;
     color: #5f6368;
     text-decoration: none;
+}
+@media (max-width: 890px) {
+    .Google_img {
+        height: 180px;
+        max-width: 280px;
+    }
+    .main__logo {
+        width: 330px;
+        margin: 0 auto;
+        margin-bottom: 35px;
+    }
+    .input-cont{
+        width: 330px;
+        
+    }
+    input{
+        width: 230px;
+        height: 40px;
+        border: none;
+        outline: none;
+        margin-left: 10px;
+    }
+    footer {
+        height: 70px;
+    }
+    footer ul{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 15px;
+    }
+    footer ul .left{
+        justify-self: left;
+        gap: 20px;
+    
+    }
+    
 }
